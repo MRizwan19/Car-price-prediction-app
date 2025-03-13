@@ -7,7 +7,7 @@ st.image(r'C:\Users\devel\Documents\Car-price-prediction-app\Project\cars_cover.
 st.title("Car Price Predictor")
 
 st.markdown("""
-This app predicts the price of a car you want to sell. Try filling the details below:
+This app predicts the price of a car you want to sell, Try filling the details below:
 """)
 
 company = st.selectbox("Select the company:", 
